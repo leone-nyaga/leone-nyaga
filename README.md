@@ -19,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leone-nyaga&show_icons=true&locale=en" alt="leone-nyaga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leone-nyaga&" alt="leone-nyaga" /></p>
+
+## 🙌 Special Thanks
+
+A huge shout-out to the creator of the [GitHub README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) — you're a genius! 🚀 This tool made creating my profile README so much easier!
