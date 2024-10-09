@@ -23,3 +23,13 @@
 ## 🙌 Special Thanks
 
 A huge shout-out to the creator of the [GitHub README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) — you're a genius! 🚀 This tool made creating my profile README so much easier!
+
+## 🦇 Batman and Alfred
+
+![Batman](https://github.com/leone-nyaga/leone-nyaga/blob/main/wb0125-8batman-portrait50x70-55544-10774.jpg) ![Alfred](https://github.com/leone-nyaga/leone-nyaga/blob/main/alfred%20images.jpeg)
+
+### Batman
+The Dark Knight, protector of Gotham City, known for his intelligence, combat skills, and relentless pursuit of justice.
+
+### Alfred
+Bruce Wayne's loyal butler and confidant, Alfred provides wisdom, support, and crucial assistance in Batman's mission. His quick wit and resourcefulness are invaluable to the Caped Crusader.
